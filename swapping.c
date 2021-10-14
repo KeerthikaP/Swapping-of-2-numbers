@@ -6,6 +6,6 @@ printf("THE TWO NUMBERS BEFORE SWAPPING x=%d y=%d",x,y); /* this will print the 
 x=x+y; /* 100+200 */
 y=x-y; /* 300-200 */
 x=x-y; /* 300-100 */
-printf("\n THE TWO NUMBERS AFTER SWAPPING x=%d y=%d",x,y);
+printf("\n THE TWO NUMBERS AFTER SWAPPING x=%d y=%d",x,y); /* this will print the numbers after swapping */
 return 0;
 }
